@@ -1,0 +1,3 @@
+[submodule "VGRTool"]
+	path = VGRTool
+	url = https://github.com/thoriumrobot/VGRTool
